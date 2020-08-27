@@ -2,7 +2,7 @@
 Twitch Chat Monitor. Monitors Twitch chat and outputs matching regex using Selenium & BeautifulSoup. Written in Python3.
 
 ## Limitations
-- Only press ctrl+c ONCE to exit. Pressing it multiple times could leave the browser driver to run in the background even though program is closed.
+- Only press ctrl+c ***ONCE*** to exit. Pressing it multiple times could leave the browser driver to run in the background even though program is closed.
 - Currently only works with popout chats
 - Only tested on Windows. May need modification for other OSs.
 
