@@ -6,7 +6,7 @@ Twitch Chat Monitor. Monitors Twitch chat and outputs matching regex using Selen
 - Currently only works with popout chats
 - Only tested on Windows. May need modification for other OSs.
 
-## Requrements
+## Requirements
 - Chrome Browser
 - Chrome Driver
 - Python 3 & pip (or some variant)
